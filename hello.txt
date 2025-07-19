@@ -1,5 +1,4 @@
 this is for test purpose
  some changes are made here
 
-here i made some changes
-for recursive merge
+this is made by master
